@@ -12,3 +12,4 @@ Additional Features: Supports multiple accounts, recurring expense tracking, and
 
 The app boasts a sleek, user-friendly UI, ensuring seamless navigation. Built with Django for scalability and security, it’s perfect for personal or small-scale financial management.
 
+![IMG-20250731-WA0009](https://github.com/user-attachments/assets/21c12740-175a-4985-8b10-2b779c6ebcad)
